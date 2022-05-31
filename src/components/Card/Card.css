@@ -1,0 +1,6 @@
+.participant {
+    background-color: var(--yellow-color);
+}
+.name {
+    text-align: center;
+}
